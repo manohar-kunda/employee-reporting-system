@@ -31,6 +31,7 @@ A Spring Boot backend application for managing employees with JWT Authentication
 - Mockito
 - Logback
 - IntelliJ IDEA
+- JPA/Hibernate
 
 ## Project Structure
 
