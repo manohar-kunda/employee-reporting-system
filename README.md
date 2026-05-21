@@ -31,6 +31,7 @@ A Spring Boot backend application for managing employees with JWT Authentication
 - Mockito
 - Logback
 - IntelliJ IDEA
+- JPA/Hibernate
 
 ## Project Structure
 
@@ -82,7 +83,7 @@ This project uses:
 
 After running the project:
 
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8081/swagger-ui/index.html
 
   ## Database
 
